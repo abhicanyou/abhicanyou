@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @abhichirunomula
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Abhiram Chirunomula
+- 👀 I’m interested in New Technologies
+- 🌱 I’m currently learning Web Development
+- I am Proefficient In C++,Pyhton,MATLAB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhichirunomula@gmail.com
 - 😄 Pronouns: he/him
